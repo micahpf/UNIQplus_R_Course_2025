@@ -21,3 +21,7 @@ The full agenda can be found in `UNIQ+ Intro to R 2025 - Course Outline.pdf`
 ## Collaborating
 
 We will use a collaborative notebook to write notes and ask questions. <https://etherpad.wikimedia.org/p/UNIQplus_R_Course_2025>
+
+------------------------------------------------------------------------
+
+*Note: The course materials used this year were inspired by those developed by [Rao](https://github.com/sraorao) and [Bea](https://github.com/BeaGM84) in [previous](https://github.com/sraorao/UNIQ_Plus_R_Course_2024)* [*years*](https://github.com/sraorao/UNIQ_Plus_R_Course_public)*.*
